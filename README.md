@@ -31,7 +31,7 @@
 
 ## 🚀 About Me
 - 💼 Currently looking for work: **Data Scientist / ML Engineer / GenAI Enginer**
-- 🌱 Learning: ![**Full Stack Generative AI and Agentic AI Bootcamp**]{https://www.krishnaik.in/liveclass2/genai?id=9} (Krish Naik)
+- 🌱 Learning: ![**Full Stack Generative AI and Agentic AI Bootcamp**](https://www.krishnaik.in/liveclass2/genai?id=9) (Krish Naik)
 - 🎯 Focused on: **[Your main interests or goals]**
 - 💬 Ask me about: **[Your expertise]**
 - ⚡ Fun fact: **[Something personal or unique]**
